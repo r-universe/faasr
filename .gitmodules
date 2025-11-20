@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "FaaSr"]
 	path = FaaSr
-	url = https://github.com/faasr/faasr-package
+	url = https://github.com/faasr/faasr-package-v1
